@@ -1,0 +1,11 @@
+{
+    "name": "nuts-agency/wn-bitrix24-plugin",
+    "description": "Bitrix24 plugin for Winter CMS.",
+    "type": "winter-plugin",
+    "authors": [
+        {
+            "name": "Nuts Agency",
+            "email": "nutscloud@yandex.ru"
+        }
+    ],
+}
